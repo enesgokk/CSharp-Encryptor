@@ -1,0 +1,17 @@
+C:\Users\enes\source\repos\Cryptoo\Cryptoo\bin\Debug\Cryptoo.exe.config
+C:\Users\enes\source\repos\Cryptoo\Cryptoo\bin\Debug\Cryptoo.exe
+C:\Users\enes\source\repos\Cryptoo\Cryptoo\bin\Debug\Cryptoo.pdb
+C:\Users\enes\source\repos\Cryptoo\Cryptoo\obj\Debug\Cryptoo.csprojAssemblyReference.cache
+C:\Users\enes\source\repos\Cryptoo\Cryptoo\obj\Debug\MainWindow.g.cs
+C:\Users\enes\source\repos\Cryptoo\Cryptoo\obj\Debug\App.g.cs
+C:\Users\enes\source\repos\Cryptoo\Cryptoo\obj\Debug\Cryptoo_MarkupCompile.cache
+C:\Users\enes\source\repos\Cryptoo\Cryptoo\obj\Debug\Cryptoo_MarkupCompile.lref
+C:\Users\enes\source\repos\Cryptoo\Cryptoo\obj\Debug\MainWindow.baml
+C:\Users\enes\source\repos\Cryptoo\Cryptoo\obj\Debug\Cryptoo.g.resources
+C:\Users\enes\source\repos\Cryptoo\Cryptoo\obj\Debug\Cryptoo.Properties.Resources.resources
+C:\Users\enes\source\repos\Cryptoo\Cryptoo\obj\Debug\Cryptoo.csproj.GenerateResource.cache
+C:\Users\enes\source\repos\Cryptoo\Cryptoo\obj\Debug\Cryptoo.csproj.CoreCompileInputs.cache
+C:\Users\enes\source\repos\Cryptoo\Cryptoo\obj\Debug\Cryptoo.exe
+C:\Users\enes\source\repos\Cryptoo\Cryptoo\obj\Debug\Cryptoo.pdb
+C:\Users\enes\source\repos\Cryptoo\Cryptoo\obj\Debug\giris.g.cs
+C:\Users\enes\source\repos\Cryptoo\Cryptoo\obj\Debug\giris.baml
