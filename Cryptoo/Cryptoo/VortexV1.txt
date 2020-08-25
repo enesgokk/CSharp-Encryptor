@@ -1,8 +1,10 @@
+#V11.0.6.0
+
 from selenium import webdriver
 from bs4 import BeautifulSoup
 import time
 
-# <p>V11.0.6.0<\p>
+
 
 # MAPS EMPTY
 
@@ -164,7 +166,7 @@ while pokemonlar==-1 :
 
 
 
-"""while soup.b=="No wild Pokémon appeared":
+"""while soup.b=="No wild PokÃ©mon appeared":
    
     solGo=browser.find_element_by_xpath("/html/body/div[5]/div/div[2]/div[1]/div/div[1]/table/tbody/tr[2]/td[1]/img")
     solGo.click()
