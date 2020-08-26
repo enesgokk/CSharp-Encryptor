@@ -16,7 +16,7 @@ oldVersion=f.read()
 f.close()
 
 
-x = requests.get('https://raw.githubusercontent.com/enesgokk/cryptoo/master/Cryptoo/Cryptoo/VortexV1.txt')
+x = requests.get('https://raw.githubusercontent.com/enesgokk/cryptoo/master/Cryptoo/Cryptoo/VortexV2.txt')
 newVersion=x.text
 
 f=open("PokeVortex.py","w")
