@@ -1,5 +1,5 @@
-# coding: latin-1
 #V11.0.6.0
+# coding: latin-1
 
 from selenium import webdriver
 from bs4 import BeautifulSoup
